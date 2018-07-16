@@ -73,6 +73,5 @@ namespace SpacedRepetitions.Tests
             Assert.AreEqual(0, cardLessOneDay.CorrectInRow);
             Assert.AreEqual(1, cardMoreOneDay.CorrectInRow);
         }
-
     }
 }
